@@ -1,0 +1,12 @@
+header{
+   font-family: Arial,sans-serif;
+  color: #000080;}
+h1:first-of-type,h2,h3,h4,h5{
+  font-family: small-caps;
+  color:#000080;
+}
+ol{list-style-type: upper-roman;}
+table,th,td{
+  border:1px solid blue;
+  border-collapse:collapse;
+}
